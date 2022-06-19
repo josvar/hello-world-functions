@@ -1,10 +1,5 @@
 {
-    "name": "jos/hello",
-    "autoload": {
-        "psr-4": {
-            "Jos\\Hello\\": "src/"
-        }
-    },
+    "name": "hello-world/inspire",
     "authors": [
         {
             "name": "Josue Vargas",

@@ -1,7 +1,7 @@
 targetNamespace: ''
 parameters: {}
 packages:
-  - name: sample
+  - name: hello-world
     environment: {}
     parameters: {}
     annotations: {}
