@@ -6,5 +6,5 @@ function main(): array
 {
     $vars = new \Illuminate\Support\Collection(['foo', 'bar']);
 
-    return $vars->all();
+    return ['body'=> $vars->all()];
 }
