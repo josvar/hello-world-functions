@@ -1,0 +1,17 @@
+{
+    "name": "jos/hello",
+    "autoload": {
+        "psr-4": {
+            "Jos\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josue Vargas",
+            "email": "jos.vargasv@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^9.17"
+    }
+}
